@@ -1,0 +1,50 @@
+[
+    {
+        "compound_chemical_role_chebi": "91"
+    },
+    {
+        "compound_application_type_chebi": "548"
+    },
+    {
+        "compound_biological_role_chebi": "1999"
+    },
+    {
+        "plantgarden_taxonomy_knapsack": "14865"
+    },
+    {
+        "metabobank_metabolite_activity_knapsack": "3757"
+    },
+    {
+        "plantgarden_pubtator_gene": "1190"
+    },
+    {
+        "plantgarden_compounds_pubtator": "3"
+    },
+    {
+        "plantgarden_genome_marker": "8252"
+    },
+    {
+        "plantgarden_genome_id_genome": "427"
+    },
+    {
+        "plantgarden_taxonomy_species": "173"
+    },
+    {
+        "microbedbjp_metagenome_host_biosample": "7546"
+    },
+    {
+        "microbedbjp_meo_component_biosample": "370"
+    },
+    {
+        "microbedbjp_meo_env_biosample": "1742"
+    },
+    {
+        "togogenome_assembly_level": "5"
+    },
+    {
+        "togogenome_refseq_category": "4"
+    },
+    {
+        "togogenome_release_date": "41"
+    }
+]

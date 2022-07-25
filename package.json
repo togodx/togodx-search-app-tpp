@@ -1,0 +1,41 @@
+{
+  "name": "tpp-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix"
+  },
+  "dependencies": {
+    "@antv/algorithm": "^0.1.23",
+    "@antv/g6": "^4.6.4",
+    "@antv/graphin": "^2.5.2",
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/material": "^5.5.2",
+    "@types/styled-components": "^5.1.24",
+    "eslint": "^8.11.0",
+    "eslint-config-next": "^12.1.0",
+    "eslint-config-prettier": "^8.5.0",
+    "next": "12.1.0",
+    "nextjs-progressbar": "^0.0.14",
+    "prettier": "^2.6.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.28.1",
+    "react-layout-components": "^3.0.6",
+    "styled-components": "^5.3.3",
+    "styled-reset": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "@types/react": "^17.0.40",
+    "babel-plugin-styled-components": "^2.0.6",
+    "sass": "^1.49.9",
+    "typescript": "^4.6.2"
+  }
+}
